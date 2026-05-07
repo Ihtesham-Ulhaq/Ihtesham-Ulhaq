@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ihtesham-ul-Haq 👋
 
-<!--
-**Ihtesham-Ulhaq/Ihtesham-Ulhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence — University of Faisalabad (2nd Year)
+📊 CGPA: 3.63 / 4.00
+📍 Faisalabad, Pakistan
+📧 ihteshamml@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **ML & Data:** Python, NumPy, Pandas, Data Cleaning, Data Analysis
+- **GUI & API:** PyQt5, REST APIs
+- **Other:** C++, OOP, DSA, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📊 Car Sales Data Analysis — Pandas/NumPy end-to-end pipeline
+- 🧹 Student Performance Data Cleaning — Kaggle dataset
+- 🌦️ Weather API Desktop App — PyQt5 + REST API
+- 🏦 Banking System Simulator — C++ OOP
+- 🔐 Text Encryption Tool — Python algorithms
+- ⏰ Alarm Clock — Python + Pygame
