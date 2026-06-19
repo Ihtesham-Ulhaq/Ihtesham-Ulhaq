@@ -19,8 +19,8 @@ Achieved 86.55% validation accuracy with detailed per-class precision/recall ana
 Deployed behind a live web interface where users upload an image and get real-time 
 classification with confidence scores, alternative predictions, and disposal guidance. 
 Includes a model insights dashboard showing training curves and confusion matrix.
-**Tech:** Python, CNN/Deep Learning, HTML/CSS/JS, Data Visualization
-[Live Demo](https://ihtesham-ulhaq.github.io/sortify/) | [Code]([#](https://github.com/Ihtesham-Ulhaq/sortify))
+**Tech:** Python, CNN/Deep Learning, JS, Data Visualization
+[Live Demo](https://ihtesham-ulhaq.github.io/sortify/) | ([#](https://github.com/Ihtesham-Ulhaq/sortify))
 
 ### 📊 Car Sales Data Analysis
 Cleaned and analyzed a car sales dataset using Pandas and NumPy — removed errors and 
